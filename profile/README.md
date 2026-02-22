@@ -12,4 +12,5 @@
 -->
 
 IAIAYN是一个致力于创造与AI相关的应用的非盈利组织。
-Intelligent Application Is All You Need.
+
+IAIAYN is a non-profit organization dedicated to creating AI-related applications.
